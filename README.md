@@ -2,8 +2,10 @@
 Kursmaterialien zur Vorlesung Data Engineering
 
 ## Hinweise
-* es wird ein  [*Google* account](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp) benötigt um code in [*Colab*](https://colab.research.google.com) auszuführen.
-* speichern Sie ihre Ergebnisse/Code in *Colab* über *download*, *save to google drive* oder *push to github* 
+* Die Labor Übungen und Aufgaben sind OPTIONAL!
+* Einige Laborübungen lassen sich ohne entsprechende Cluster NICHT durchführen!
+* Für [*Colab*](https://colab.research.google.com) verwenden Sie einfach Ihr HSO Account.
+  * speichern Sie ihre Ergebnisse/Code in *Colab* über *download*, *save to google drive* oder *push to github* 
 
 ## Woche 1
 ### Labor
