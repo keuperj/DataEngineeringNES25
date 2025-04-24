@@ -1,4 +1,4 @@
-# DataEngineering22
+# DataEngineering NES SS25
 Kursmaterialien zur Vorlesung Data Engineering
 
 ## Hinweise
